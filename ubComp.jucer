@@ -2,8 +2,8 @@
 
 <JUCERPROJECT id="nWtskh" name="ubComp" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" cppLanguageStandard="17"
-              companyName="ub" pluginName="u-best-Comp">
-  <MAINGROUP id="MYgVqe" name="ubComp">
+              companyName="u-best" pluginName="u-best-Comp">
+  <MAINGROUP id="MYgVqe" name="u-bestComp">
     <GROUP id="{E302BEFA-B4E1-F23C-2590-85B811FE53E7}" name="Source">
       <FILE id="qq3Vbz" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
